@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: easymock-3.1.jar slf4j-log4j12-1.7.26.jar powermock-module
+ -junit4-1.4.6.jar kafka_2.11-1.0.0.jar log4j-1.2.17.jar jopt-simple-5
+ .0.4.jar cglib-nodep-2.2.2.jar powermock-api-support-1.4.6.jar objene
+ sis-1.2.jar powermock-api-easymock-1.4.6.jar jackson-core-2.9.1.jar z
+ kclient-0.10.jar mockito-all-1.8.5.jar jackson-databind-2.9.1.jar log
+ 4j-api-2.12.0.jar commons-lang3-3.9.jar log4j-core-2.12.0.jar jackson
+ -annotations-2.9.0.jar snmp4j-2.7.0.jar powermock-api-mockito-1.4.6.j
+ ar easymockclassextension-3.1.jar powermock-module-junit4-common-1.4.
+ 6.jar zookeeper-3.4.10.jar javassist-3.18.2-GA.jar metrics-core-2.2.0
+ .jar powermock-core-1.4.6.jar lz4-java-1.4.jar scala-library-2.11.11.
+ jar snappy-java-1.1.4.jar powermock-reflect-1.4.6.jar kafka-clients-1
+ .0.0.jar slf4j-api-1.7.26.jar
+Main-Class: vip.dtcloud.extractor.snmp.Application
+
